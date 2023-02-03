@@ -11,7 +11,7 @@
 	<groupId>com.deoprag.api</groupId>
 	<artifactId>parking-control</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>parking-control</name>
+	<name>rest-with-spring-boot-and-java-deoprag-1</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>19</java.version>
